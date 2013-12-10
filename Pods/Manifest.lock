@@ -1,0 +1,16 @@
+PODS:
+  - LWF/Core (20131209)
+  - LWF/UIKit (20131209):
+    - LWF/Core
+
+DEPENDENCIES:
+  - LWF/UIKit (from `https://raw.github.com/splhack/Specs/master/LWF/20131209/LWF.podspec`)
+
+EXTERNAL SOURCES:
+  LWF:
+    :podspec: https://raw.github.com/splhack/Specs/master/LWF/20131209/LWF.podspec
+
+SPEC CHECKSUMS:
+  LWF: 3174aaa03a7e64d836a77005f6b41cab29e2b6ab
+
+COCOAPODS: 0.28.0
