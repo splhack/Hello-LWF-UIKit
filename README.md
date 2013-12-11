@@ -24,7 +24,7 @@ Open Hello-LWF-UIKit.xcworkspace using Xcode 5 or later and run it. You'll see a
 How to install LWF into your project
 ------------------------------------
 
-Use [CocoaPods](cocoapods.org) with Podfile as the following.
+Use [CocoaPods](http://cocoapods.org) with Podfile as the following.
 
     pod 'LWF/UIKit'
 
