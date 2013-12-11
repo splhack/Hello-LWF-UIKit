@@ -47,7 +47,7 @@
 - (void)didMoveToWindow
 {
 	if (self.window) {
-		if (!self.displayLink) {
+		if (!self.displayLink && self.displayList) {
 			self.displayLink = [CADisplayLink
 				displayLinkWithTarget:self selector:@selector(update:)];
 			[self.displayLink setFrameInterval:(

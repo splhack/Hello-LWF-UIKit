@@ -1,16 +1,12 @@
 PODS:
-  - LWF/Core (20131209)
-  - LWF/UIKit (20131209):
+  - LWF/Core (1.0.0)
+  - LWF/UIKit (1.0.0):
     - LWF/Core
 
 DEPENDENCIES:
-  - LWF/UIKit (from `https://raw.github.com/splhack/Specs/master/LWF/20131209/LWF.podspec`)
-
-EXTERNAL SOURCES:
-  LWF:
-    :podspec: https://raw.github.com/splhack/Specs/master/LWF/20131209/LWF.podspec
+  - LWF/UIKit
 
 SPEC CHECKSUMS:
-  LWF: 3174aaa03a7e64d836a77005f6b41cab29e2b6ab
+  LWF: 1c4a3372837d63fc637e6de2a36772ff485b006f
 
 COCOAPODS: 0.28.0
