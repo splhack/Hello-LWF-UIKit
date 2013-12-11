@@ -17,6 +17,10 @@ How to run this example
 
 Open Hello-LWF-UIKit.xcworkspace using Xcode 5 or later and run it. You'll see a Flash movie which is embedded on iOS UIView.
 
+![](http://gree.github.io/lwf-loader/images/lwfloader-sample3.png)
+
+(This example animation is also available on HTML5 http://gree.github.io/lwf-demo/html5/lwf-loader/sample3.html)
+
 How to install LWF into your project
 ------------------------------------
 
