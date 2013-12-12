@@ -1,12 +1,12 @@
 PODS:
-  - LWF/Core (1.0.0)
-  - LWF/UIKit (1.0.0):
+  - LWF/Core (1.0.2)
+  - LWF/UIKit (1.0.2):
     - LWF/Core
 
 DEPENDENCIES:
   - LWF/UIKit
 
 SPEC CHECKSUMS:
-  LWF: 1c4a3372837d63fc637e6de2a36772ff485b006f
+  LWF: 197911bf21396ddcfef0d878eb71efad4f4c9f0f
 
 COCOAPODS: 0.28.0
