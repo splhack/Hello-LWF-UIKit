@@ -31,7 +31,7 @@ Use [CocoaPods](http://cocoapods.org) with Podfile as the following.
 How to use LWF on your project
 ------------------------------
 
-* Take a look at the Storyboard and then search *LWFView* in *View Controller Scene*.
+* Take a look at the Storyboard and then find **LWFView** in **View Controller Scene**.
 * [Objective-C LWF API document](http://cocoadocs.org/docsets/LWF/)
 
 How to use Adobe Flash for making animation
