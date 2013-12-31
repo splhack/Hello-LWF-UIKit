@@ -73,6 +73,8 @@ public:
 	virtual void BeginRender(LWF *lwf) = 0;
 	virtual void EndRender(LWF *lwf) = 0;
 	virtual void Destruct() = 0;
+	virtual void SetBlendMode(int blendMode) = 0;
+	virtual void SetMaskMode(int maskMode) = 0;
 
 	virtual void FitForHeight(LWF *lwf, float w, float h) = 0;
 	virtual void FitForWidth(LWF *lwf, float w, float h) = 0;
@@ -84,17 +86,19 @@ class NullRendererFactory : public IRendererFactory
 {
 public:
 	shared_ptr<Renderer> ConstructBitmap(LWF *lwf,
-		int objId, Bitmap *bitmap) {return shared_ptr<Renderer>();}
+		int objId, Bitmap *bitmap) {return 0;}
 	shared_ptr<Renderer> ConstructBitmapEx(LWF *lwf,
-		int objId, BitmapEx *bitmapEx) {return shared_ptr<Renderer>();}
+		int objId, BitmapEx *bitmapEx) {return 0;}
 	shared_ptr<TextRenderer> ConstructText(LWF *lwf,
-		int objId, Text *text) {return shared_ptr<TextRenderer>();}
+		int objId, Text *text) {return 0;}
 	shared_ptr<Renderer> ConstructParticle(LWF *lwf,
-		int objId, Particle *particle) {return shared_ptr<Renderer>();}
+		int objId, Particle *particle) {return 0;}
 	void Init(LWF *lwf) {}
 	void BeginRender(LWF *lwf) {}
 	void EndRender(LWF *lwf) {}
 	void Destruct() {}
+	void SetBlendMode(int blendMode) {}
+	void SetMaskMode(int maskMode) {}
 
 	void FitForHeight(LWF *lwf, float w, float h) {}
 	void FitForWidth(LWF *lwf, float w, float h) {}

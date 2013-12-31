@@ -2,5 +2,6 @@ CLANG_CXX_LANGUAGE_STANDARD = c++0x
 CLANG_CXX_LIBRARY = libc++
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
 HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/LWF"
+OTHER_CFLAGS = $(inherited) "-isystem${PODS_ROOT}/Headers" "-isystem${PODS_ROOT}/Headers/LWF"
 OTHER_LDFLAGS = -ObjC -lc++
 PODS_ROOT = ${SRCROOT}/Pods
