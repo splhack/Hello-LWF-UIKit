@@ -10,7 +10,162 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>0067B6E21E584486A5AEC89E</key>
+		<key>04388385750C48AB8053352A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2C7084A259E144C1A2F005CC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>07EB387118F64336B7A61BD1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AF9E8873E5664E93BC0D86EC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>08D2C6A4621C43D79E22CA26</key>
+		<dict>
+			<key>fileRef</key>
+			<string>878DE427FA544EA08EB57292</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>096529B594154AE98E245758</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>LWFTextRenderer.mm</string>
+			<key>path</key>
+			<string>cplusplus/uikit/LWFTextRenderer.mm</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0A401C451CDF4CC3A43B510E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C9DA7598EE994E9C9624A6FF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>0CC20C9860E84AA4859BC69D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E88EA7DFCA2A4CD9A42D71F7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>0F5F31A45D484FADA6E3AE3D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-LWF-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0FDDFDE57BFD42648AA92015</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_animation.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_animation.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>10153776E93247B88ED8036E</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>114F973923564C289F3FC56A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_data.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_data.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>116A14B56B6049E5B29317E2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_bitmapex.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_bitmapex.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1340C86AF463452C954D690C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_compat.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_compat.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>15D1AFBB63E6430980CDA0D3</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>9500DA128D084C6AB57CE05C</string>
+				<string>8CFC117963EB4CF5B3CAC276</string>
+				<string>FCA406004FC1438EBB141C5C</string>
+				<string>20DE9288F45B4CE0BE4C412E</string>
+				<string>CB360D1964A14133A3606A94</string>
+				<string>9BDA5802773A404EB2A28AE8</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>18897BA5C5A5476596C97711</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1340C86AF463452C954D690C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1B2969248B4448B882993D13</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -23,14 +178,199 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>007D41CB1BEF42609D576A5F</key>
+		<key>1B97B5F81EDA410AA12D74F2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_core.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_core.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1D5E1178ECE9455AB0EB34BD</key>
 		<dict>
 			<key>fileRef</key>
-			<string>27000B2111834A7D9FFB2C31</string>
+			<string>FC32B34CDA8441BD8AC3F56F</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>018B8814A48F4AC99AAF709E</key>
+		<key>1E4BCDEDC68B47B8B143F765</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A5304E825FFA4D5DB9BE7425</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>20DE9288F45B4CE0BE4C412E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2162C012D1844119A767C3FA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B4F71D572DF34908B73EABAC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>233C91A3F3CE4D69B01F40B7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EC0F70500C29460B801EB2A6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>24A2E3B3C26142ECAAD406D5</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>85FEC0E71EE5420EA5E963D5</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>5A26C4CB214A49D987F06CC8</string>
+			<key>remoteInfo</key>
+			<string>Pods-LWF</string>
+		</dict>
+		<key>2721B490B4F94B719F2CFD18</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_property.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_property.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2778EA3F7C434E8E92EAFADE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B3D6D4ADE5C142D786560DCE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>27BBCD457E52442498EC3965</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AA78317C3B694ECFBE016125</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>29A28D5E93C744F5B7FA555B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>Types.h</string>
+			<key>path</key>
+			<string>cplusplus/supports/lzma/Types.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2B4E2C7367644864BD7B447F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D1AE0039DE6449DE98DB14EB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2BBF4F1306CC4A4BAE550060</key>
+		<dict>
+			<key>fileRef</key>
+			<string>29A28D5E93C744F5B7FA555B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2C7084A259E144C1A2F005CC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_particle.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_particle.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2E2D946EE7D54E89A0BBCA73</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9CDFA4B0F97E4CD392665780</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2E816C6AE6FC4685B56C878E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>114F973923564C289F3FC56A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2E93B8FDB5D94E0E83E3207C</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-LWF.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>2EFD4364578244B087632553</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_format.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_format.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>308717AEC8754F56A81F964F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6FD437711F6C45E5A6847BA8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>30B6C1BF7A63490AB158B978</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7B881E6457D741ACAC1BBA9C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>312A778B0A8347539BEE19D5</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -45,457 +385,278 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>024A36EED0394CCDAAD0FFAF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6CF4B4A9B72447FAB8EE66CA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>026670D68261451BB18F593F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>ECFDF9AB677A4AAD97FD519C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>02CCEA9F4C5147ED9ED516DC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1E14C0A56E5245F4B976CA7C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0521304EE94740D8BA0FCE2B</key>
+		<key>321D13AF17C847EEA34CE847</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>lwf_core.cpp</string>
+			<string>lwf_movieat.cpp</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_core.cpp</string>
+			<string>cplusplus/core/lwf_movieat.cpp</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>05EEF49B54BA4F5FBEAF216F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_eventbutton.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_eventbutton.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>082DEC02CA4949B28DE80C81</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_utility.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_utility.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>08633D7A0E3F49A6A564E403</key>
+		<key>33FBBD9F23644CF1AFA1864E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>3CF94E2A991140B1B083600E</string>
+			<string>E0002986EF9145ECA3270A53</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>09170E01092445548E829766</key>
+		<key>353AB0A4C8144538899E3731</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A037A4F66608491CB20DB3F5</string>
+			<string>C0468ACD3FCD405FBBA5F960</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>09EAB5841C324645800D4677</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-LWF.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>0BE30983CA2F4B71924B76E9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D6CECB46D5914BEF9DE980BD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0DC93CCE26354BAD9DB1D966</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1F28004A25954C198EBB44A2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0DF01B81C4A4406BB4B3B346</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_bitmap.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_bitmap.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0F409B464B234E6AAA07C746</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DB24CD4F541C4D799E018C5F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0F9B5F316CAA46B59DE516D7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>11735EBACBF140A09D0ADA6C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_lwfcontainer.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_lwfcontainer.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>11F7BCDB21F04B24AB4E34ED</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>123B9BDA48304D4B93178168</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7ACF538D2F5D4C9DBF43DC6D</string>
-				<string>E886D236D8924B22BC322216</string>
-				<string>ECFDF9AB677A4AAD97FD519C</string>
-				<string>D509E97E1CA8425C829ED76D</string>
-				<string>A8EC2D12E9D946AA851B7860</string>
-				<string>6DF48D422B664B5486CC3138</string>
-				<string>73FA94A8458942A393FE0925</string>
-				<string>53F4791341CB4E78A87BF8B2</string>
-				<string>1D9A1C16108F45ADA74237BE</string>
-				<string>164BB74690E640A98ABF89C7</string>
-				<string>89E1401A2A7D4D5EA39AF93B</string>
-				<string>F63EF475EEB3433AAE5530BC</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>UIKit</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>12DFF8147AC44C65834DB90A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_event.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_event.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>13EC8650ECB849E19826B820</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>D195D3691C8345F9BE7E5D69</string>
-			<key>buildPhases</key>
-			<array>
-				<string>CF2EB9EF5FEB4AA3A09DC980</string>
-				<string>EDF633D33F924344999B9D9B</string>
-				<string>899F49B37BD8477AB0E6A3FA</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-LWF</string>
-			<key>productName</key>
-			<string>Pods-LWF</string>
-			<key>productReference</key>
-			<string>09EAB5841C324645800D4677</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>14CDBD0984224104BE8617A6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A5AFE9BFD72848D6871E713A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>15E7CD7BBAB948AE85746736</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9635AA3EBF0F4CABA3BD690D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>164BB74690E640A98ABF89C7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>LWFTextRenderer.mm</string>
-			<key>path</key>
-			<string>cplusplus/uikit/LWFTextRenderer.mm</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>17A39149899C4B2989509BE6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D69776E5A2634F1E90EFD31E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>182F1E63CE2149F5A5BF0674</key>
-		<dict>
-			<key>fileRef</key>
-			<string>05EEF49B54BA4F5FBEAF216F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>19534A66DED04C088EB5CFF8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1E6C6D2282964E8B91A46A50</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>199F2D48FD844E1CB8804D9E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>65C6F5C6F8994409BAAF61E9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1D7AF4CD3203499B8C0A1ABC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_movieprop.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_movieprop.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1D9A1C16108F45ADA74237BE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>LWFTextRenderer.h</string>
-			<key>path</key>
-			<string>cplusplus/uikit/LWFTextRenderer.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1E14C0A56E5245F4B976CA7C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_property.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_property.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1E6C6D2282964E8B91A46A50</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_particle.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_particle.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1E7DC186D53E4C248C78A507</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4320695BC31E44B38FBB8227</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1F28004A25954C198EBB44A2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_iobject.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_iobject.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>21164233FA854CC89A56E676</key>
+		<key>356D1E896BBD418F9F6C0CA6</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>29ACCE1E7BBC426486F0EDA3</string>
-				<string>F4C725FD6F9B43A0B265E60C</string>
+				<string>E6AB76B371E34E739ABB5C74</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>214FF26F3D2E46B482558E08</key>
+		<key>3CB1E2A0858F42CB9C56A6FE</key>
 		<dict>
-			<key>fileRef</key>
-			<string>3A27280EDF014C7D901A3783</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2444B6D34F6E4CCB8F2E8A9A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3779E6380A424457833EDCB7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>249773C321A74D5B87DB8448</key>
-		<dict>
-			<key>children</key>
+			<key>buildConfigurations</key>
 			<array>
-				<string>3A27280EDF014C7D901A3783</string>
-				<string>EA4337C64B8C4FF49A8DD14C</string>
-				<string>FC20E23A56564C5585620ECD</string>
-				<string>DB24CD4F541C4D799E018C5F</string>
-				<string>DF0B4251C6974143B3D1760E</string>
-				<string>0F9B5F316CAA46B59DE516D7</string>
-				<string>4320695BC31E44B38FBB8227</string>
-				<string>B87FB89038C847F780112591</string>
-				<string>0DF01B81C4A4406BB4B3B346</string>
-				<string>27F1701EE12640B8BA49328E</string>
-				<string>EFBB6CB3E62F4CB3AC98CCE7</string>
-				<string>6949E787564941AEA3EF42C8</string>
-				<string>0067B6E21E584486A5AEC89E</string>
-				<string>3779E6380A424457833EDCB7</string>
-				<string>41723C63A39C4B2D8DA6F941</string>
-				<string>0521304EE94740D8BA0FCE2B</string>
-				<string>5AA850661734412F9B0ADEF7</string>
-				<string>A037A4F66608491CB20DB3F5</string>
-				<string>500B4C95EDEE43609DA7EEAC</string>
-				<string>D342823E840F4547A6458A84</string>
-				<string>12DFF8147AC44C65834DB90A</string>
-				<string>05EEF49B54BA4F5FBEAF216F</string>
-				<string>FC8376E973D94B40B405C5B6</string>
-				<string>6105D511A1D7493D9C6B5F66</string>
-				<string>832FEDF642174F50967AE21A</string>
-				<string>3CF94E2A991140B1B083600E</string>
-				<string>6CF4B4A9B72447FAB8EE66CA</string>
-				<string>9635AA3EBF0F4CABA3BD690D</string>
-				<string>27000B2111834A7D9FFB2C31</string>
-				<string>F52319A56D194E449BB25BF0</string>
-				<string>1F28004A25954C198EBB44A2</string>
-				<string>018B8814A48F4AC99AAF709E</string>
-				<string>B1563595448648A59FD4AFC7</string>
-				<string>11735EBACBF140A09D0ADA6C</string>
-				<string>BEB7ECBB628947AA8E9BB44C</string>
-				<string>3C23C661A3C843A48A26865E</string>
-				<string>42B4CC5C314148FDB99003B9</string>
-				<string>50A324A3B98D475FB7CA2556</string>
-				<string>1D7AF4CD3203499B8C0A1ABC</string>
-				<string>D69776E5A2634F1E90EFD31E</string>
-				<string>D04C37082D7941C8984DA24A</string>
-				<string>1E6C6D2282964E8B91A46A50</string>
-				<string>50C2C717BB1B41ABADA634D8</string>
-				<string>B9EEBB1D04A44DC3BE0E6019</string>
-				<string>9DBFC1B1ECC448BABDE7380A</string>
-				<string>40306D5104C34145B89BE493</string>
-				<string>1E14C0A56E5245F4B976CA7C</string>
-				<string>A5AFE9BFD72848D6871E713A</string>
-				<string>A91A6FE5538F4F86BC264351</string>
-				<string>CE1E73ACED884ED2BBF43D86</string>
-				<string>ECE955EBF6714849A1C912F9</string>
-				<string>082DEC02CA4949B28DE80C81</string>
-				<string>D6CECB46D5914BEF9DE980BD</string>
+				<string>4A98144B467B4B599CD0D279</string>
+				<string>FAAF7EE8DC3B4180B3AE8DB1</string>
 			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>3D057780589342608E592F2E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>Core</string>
+			<string>lwf_lwfcontainer.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_lwfcontainer.cpp</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>27000B2111834A7D9FFB2C31</key>
+		<key>3D9ACB1879434C0E9654C9CE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8C7D7644CC1A43F99C9948E5</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>40D704F6F6444486984384AC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DB58F81771AA4D3EBDC9D3DD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>42390AE19C674473AB9E56EE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D840EAA29DE1487EAB4FC9E7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>439426871CC34EF88ECE821F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_eventbutton.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_eventbutton.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>44166377B4DF47F793D5EED3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E46125C437014135899526CD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>44830E54C34E486FBF6E03FD</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>921E63FB95864022986DCA2E</string>
+				<string>E2FC9FF331664367A7EB2C48</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>458C87AEE2F84730AFAFF04C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F60419729A7843A99548EDFB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>474F34DE55D24B79B35D54D3</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>2778EA3F7C434E8E92EAFADE</string>
+				<string>9BB8368139844C74AAB4E584</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>492DCB94133B4C0BB2D78DBB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>52E1503090DC46D88C6D3EC2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>49FD6C90FAC949F6938E430B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>20DE9288F45B4CE0BE4C412E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4A98144B467B4B599CD0D279</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>E514BBB2AE1B49409E9955CF</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>ARCHS</key>
+				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Pods-LWF-prefix.pch</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.0</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>4AEE27A90CD64B1DA68A9209</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F8C8FD0AA6B144FFAA45BF19</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4D52F3D748EE4CE6902CD4CC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_animation.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_animation.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>50A1E3060B1D4580932BC391</key>
+		<dict>
+			<key>fileRef</key>
+			<string>FFAFBEC2F0244BCD9FD5E27E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>5140A55ABB7B4F6380829133</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-LWF.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5229DE29486D4B8891FDE823</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C006DF48EBD045F597B690FF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>52E1503090DC46D88C6D3EC2</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -510,7 +671,14 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>27F1701EE12640B8BA49328E</key>
+		<key>55548313B8C344AEBB4996BA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F266045217A943D09C96EDAE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>562EFDA0B9404C0D8462508F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -519,34 +687,71 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>lwf_bitmap.h</string>
+			<string>LzmaDec.h</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_bitmap.h</string>
+			<string>cplusplus/supports/lzma/LzmaDec.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>29ACCE1E7BBC426486F0EDA3</key>
+		<key>57200C1A29B2490AAEE5F89A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>LWFRendererFactory.mm</string>
+			<key>path</key>
+			<string>cplusplus/uikit/LWFRendererFactory.mm</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5745469CAB9D41DFBA0F5FE7</key>
 		<dict>
 			<key>fileRef</key>
-			<string>11F7BCDB21F04B24AB4E34ED</string>
+			<string>828AF136AA9D4967BD297EDD</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2DEE4781B15344B8B5B9EC20</key>
+		<key>5806B71382054D5C8F7D5F65</key>
 		<dict>
-			<key>fileRef</key>
-			<string>6105D511A1D7493D9C6B5F66</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_graphic.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_graphic.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>36205E81A1DF4B92B80FFA5F</key>
+		<key>5A26C4CB214A49D987F06CC8</key>
 		<dict>
-			<key>fileRef</key>
-			<string>7ACF538D2F5D4C9DBF43DC6D</string>
+			<key>buildConfigurationList</key>
+			<string>3CB1E2A0858F42CB9C56A6FE</string>
+			<key>buildPhases</key>
+			<array>
+				<string>EE6CC294E3B74C09998097E3</string>
+				<string>356D1E896BBD418F9F6C0CA6</string>
+				<string>F5F82E5A40BA40088758FF39</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-LWF</string>
+			<key>productName</key>
+			<string>Pods-LWF</string>
+			<key>productReference</key>
+			<string>2E93B8FDB5D94E0E83E3207C</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>3779E6380A424457833EDCB7</key>
+		<key>5E04A27D774148328AB7890B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -555,43 +760,160 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>lwf_button.h</string>
+			<string>LWFBitmapRenderer.h</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_button.h</string>
+			<string>cplusplus/uikit/LWFBitmapRenderer.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>38C76708C2414D20822006EC</key>
+		<key>5EFA0116643343ACA0271A6A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5E04A27D774148328AB7890B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>5F66CBCD81BC42ECAEBF38DC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_iobject.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_iobject.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>60258CC78C614E339BC5AF51</key>
+		<dict>
+			<key>fileRef</key>
+			<string>798638AC86DE4FE9B77301FA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>62419D67FB45487081C9B47B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_object.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_object.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>638C8A0221AE47F7A317C5BE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>439426871CC34EF88ECE821F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>645C2E4FD16144D6BEADACCB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1B2969248B4448B882993D13</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6560B82E3E2B49AB9D0D7E5D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_lwfcontainer.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_lwfcontainer.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>66EE8739929E41EB9FA8E542</key>
+		<dict>
+			<key>fileRef</key>
+			<string>67E74FB4D0834831B29C0F02</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>67E74FB4D0834831B29C0F02</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>LWFView.m</string>
+			<key>path</key>
+			<string>cplusplus/uikit/LWFView.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6B22D3DCC95E40BFAE8F5902</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>249773C321A74D5B87DB8448</string>
-				<string>DB91E6CB11874311BF79C4A6</string>
-				<string>123B9BDA48304D4B93178168</string>
+				<string>5140A55ABB7B4F6380829133</string>
+				<string>E514BBB2AE1B49409E9955CF</string>
+				<string>D1AE0039DE6449DE98DB14EB</string>
+				<string>0F5F31A45D484FADA6E3AE3D</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>LWF</string>
-			<key>path</key>
-			<string>LWF</string>
+			<string>Support Files</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>3A27280EDF014C7D901A3783</key>
+		<key>6B670F9C4A9C471D837E6E88</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>Alloc.c</string>
+			<string>lwf_coredata.cpp</string>
 			<key>path</key>
-			<string>cplusplus/supports/lzma/Alloc.c</string>
+			<string>cplusplus/core/lwf_coredata.cpp</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3C23C661A3C843A48A26865E</key>
+		<key>6FD437711F6C45E5A6847BA8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_bitmap.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_bitmap.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7087F265A02A4F6D9491344E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EE602A0BAFFD46C28DBFE67F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>710CF84028BC4628A120FE65</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -600,42 +922,167 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>lwf_movie.h</string>
+			<string>LWFRendererFactory.h</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_movie.h</string>
+			<string>cplusplus/uikit/LWFRendererFactory.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3CF94E2A991140B1B083600E</key>
+		<key>72EAA443D88B4CC8ABCD473A</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>BF1C08E96CF04400A86A05A6</string>
+			<key>buildPhases</key>
+			<array>
+				<string>AECC5521573244FB9C56FEB4</string>
+				<string>474F34DE55D24B79B35D54D3</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>7AB2D14E529E4AD69878CA69</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>productName</key>
+			<string>Pods</string>
+			<key>productReference</key>
+			<string>10153776E93247B88ED8036E</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>7434105CC0714CFA82452939</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>lwf_format.cpp</string>
+			<string>lwf_movie.cpp</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_format.cpp</string>
+			<string>cplusplus/core/lwf_movie.cpp</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3DA8BA4F7ED34B439B224FA4</key>
+		<key>7460631247D34FDB8BC5FFB5</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>11F7BCDB21F04B24AB4E34ED</string>
+				<string>C57A40500B6F446CA3E5F864</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>iOS</string>
+			<string>Frameworks</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3DC3A4BF7C9C4658ACE03987</key>
+		<key>76CF12F175BB400094E90136</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EA40CCC9638349068A30D66E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>78C1CE409A174B8EA8BE73D0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0FDDFDE57BFD42648AA92015</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>7974212F567744B0A91CC53F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6B670F9C4A9C471D837E6E88</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>798638AC86DE4FE9B77301FA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_utility.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_utility.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>799ABD835D954CF190608757</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_input.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_input.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7AB2D14E529E4AD69878CA69</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>target</key>
+			<string>5A26C4CB214A49D987F06CC8</string>
+			<key>targetProxy</key>
+			<string>24A2E3B3C26142ECAAD406D5</string>
+		</dict>
+		<key>7B881E6457D741ACAC1BBA9C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_renderer.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_renderer.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7F29401341604748A7AEE578</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>LzmaDec.c</string>
+			<key>path</key>
+			<string>cplusplus/supports/lzma/LzmaDec.c</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>828AF136AA9D4967BD297EDD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>LWFTextRenderer.h</string>
+			<key>path</key>
+			<string>cplusplus/uikit/LWFTextRenderer.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8369F0A66B8842FFBD546F71</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>69A735002B4347008B3EE859</string>
+			<string>9500DA128D084C6AB57CE05C</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -684,179 +1131,115 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>40306D5104C34145B89BE493</key>
+		<key>85FEC0E71EE5420EA5E963D5</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_property.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_property.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>41723C63A39C4B2D8DA6F941</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_compat.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_compat.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>41F906955E6545DFBD6FEF45</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42B4CC5C314148FDB99003B9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42B4CC5C314148FDB99003B9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_movieat.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_movieat.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>430EFD46D8F84D5296F57470</key>
-		<dict>
-			<key>fileRef</key>
-			<string>ECE955EBF6714849A1C912F9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4320695BC31E44B38FBB8227</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_animation.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_animation.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4384D8229BFE4AB7BFE123D0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E886D236D8924B22BC322216</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
+			<key>attributes</key>
 			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+				<key>LastUpgradeCheck</key>
+				<string>0500</string>
 			</dict>
-		</dict>
-		<key>438EFF8FA49448F294A7D49B</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>73504E30D21049FAAF55441B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>46EEA5EB8D4E437097006184</key>
-		<dict>
 			<key>buildConfigurationList</key>
-			<string>54EE36C58EC44D98A0742211</string>
-			<key>buildPhases</key>
+			<string>44830E54C34E486FBF6E03FD</string>
+			<key>compatibilityVersion</key>
+			<string>Xcode 3.2</string>
+			<key>developmentRegion</key>
+			<string>English</string>
+			<key>hasScannedForEncodings</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXProject</string>
+			<key>knownRegions</key>
 			<array>
-				<string>438EFF8FA49448F294A7D49B</string>
-				<string>21164233FA854CC89A56E676</string>
+				<string>en</string>
 			</array>
-			<key>buildRules</key>
+			<key>mainGroup</key>
+			<string>E36083676BCC4B74A363CAE7</string>
+			<key>productRefGroup</key>
+			<string>C22D8E51652F454C9932FFA9</string>
+			<key>projectDirPath</key>
+			<string></string>
+			<key>projectReferences</key>
 			<array/>
-			<key>dependencies</key>
+			<key>projectRoot</key>
+			<string></string>
+			<key>targets</key>
 			<array>
-				<string>E4063D3E9CC045F5BF40D94A</string>
+				<string>72EAA443D88B4CC8ABCD473A</string>
+				<string>5A26C4CB214A49D987F06CC8</string>
 			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>productName</key>
-			<string>Pods</string>
-			<key>productReference</key>
-			<string>4FBD46A461304EB1B3FC5018</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>4B8EE90DC3674F3291CC69C2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D342823E840F4547A6458A84</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4BFD09C3489A4441B78E485D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FC8376E973D94B40B405C5B6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4FBD46A461304EB1B3FC5018</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>500B4C95EDEE43609DA7EEAC</key>
+		<key>878DE427FA544EA08EB57292</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>lwf_data.cpp</string>
+			<string>lwf_object.cpp</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_data.cpp</string>
+			<string>cplusplus/core/lwf_object.cpp</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>50A324A3B98D475FB7CA2556</key>
+		<key>888A837A95D1412BB7976846</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>baseConfigurationReference</key>
+			<string>9500DA128D084C6AB57CE05C</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>ARCHS</key>
+				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.0</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
 			<key>isa</key>
-			<string>PBXFileReference</string>
+			<string>XCBuildConfiguration</string>
 			<key>name</key>
-			<string>lwf_movieop.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_movieop.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>Debug</string>
 		</dict>
-		<key>50C2C717BB1B41ABADA634D8</key>
+		<key>8C25C68300DD4B27BCDF8A64</key>
+		<dict>
+			<key>fileRef</key>
+			<string>312A778B0A8347539BEE19D5</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8C7D7644CC1A43F99C9948E5</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -865,129 +1248,71 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>lwf_particle.h</string>
+			<string>Alloc.h</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_particle.h</string>
+			<string>cplusplus/supports/lzma/Alloc.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>53F4791341CB4E78A87BF8B2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>LWFResourceCache.mm</string>
-			<key>path</key>
-			<string>cplusplus/uikit/LWFResourceCache.mm</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>54B26C386C174E5A8147F1DC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>4FBD46A461304EB1B3FC5018</string>
-				<string>09EAB5841C324645800D4677</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>54EE36C58EC44D98A0742211</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>94918EFB56A040D1B3D7C365</string>
-				<string>3DC3A4BF7C9C4658ACE03987</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>54FC83E301F04F2A9BD227D9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>50A324A3B98D475FB7CA2556</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5AA850661734412F9B0ADEF7</key>
+		<key>8CFC117963EB4CF5B3CAC276</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_core.h</string>
+			<string>text</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_core.h</string>
+			<string>Pods-acknowledgements.markdown</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5BC6DD295A3940148D7AA47B</key>
+		<key>8E5308D4322C4196B871B30B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>89E1401A2A7D4D5EA39AF93B</string>
+			<string>5806B71382054D5C8F7D5F65</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>5F4CED55A2B84146902D1E99</key>
+		<key>90193390CCB84AB5906ACED8</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>38C76708C2414D20822006EC</string>
+				<string>5E04A27D774148328AB7890B</string>
+				<string>D840EAA29DE1487EAB4FC9E7</string>
+				<string>C9DA7598EE994E9C9624A6FF</string>
+				<string>D2CA828476EE44D7820FC9FE</string>
+				<string>710CF84028BC4628A120FE65</string>
+				<string>57200C1A29B2490AAEE5F89A</string>
+				<string>C006DF48EBD045F597B690FF</string>
+				<string>DB58F81771AA4D3EBDC9D3DD</string>
+				<string>828AF136AA9D4967BD297EDD</string>
+				<string>096529B594154AE98E245758</string>
+				<string>E824A02296E34C89A1632D61</string>
+				<string>67E74FB4D0834831B29C0F02</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Pods</string>
+			<string>UIKit</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>6105D511A1D7493D9C6B5F66</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_eventmovie.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_eventmovie.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>65C6F5C6F8994409BAAF61E9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-LWF-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>66EDD5DD31A44DB0BFEE25BF</key>
+		<key>90DDEE014DA0420AB3A63132</key>
 		<dict>
 			<key>fileRef</key>
-			<string>018B8814A48F4AC99AAF709E</string>
+			<string>1B97B5F81EDA410AA12D74F2</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>673DAE862EE64148AEE6CD84</key>
+		<key>90F35AA07E7F495CB8B29BA6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4D52F3D748EE4CE6902CD4CC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>921E63FB95864022986DCA2E</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -1054,7 +1379,243 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>67FFFF16FCA448CEB97D394B</key>
+		<key>94F3F1A24A204A028D505F7A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>710CF84028BC4628A120FE65</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>9500DA128D084C6AB57CE05C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9BB8368139844C74AAB4E584</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2E93B8FDB5D94E0E83E3207C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>9BDA5802773A404EB2A28AE8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-resources.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9CDFA4B0F97E4CD392665780</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_button.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_button.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A109FE8751AE4CF68F0B5456</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F8470F39A62E4CB3BD78ED48</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A17543877D2F4BCD9CF2F442</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7F29401341604748A7AEE578</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A4118492605545D68D254618</key>
+		<dict>
+			<key>fileRef</key>
+			<string>096529B594154AE98E245758</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>A5304E825FFA4D5DB9BE7425</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Alloc.c</string>
+			<key>path</key>
+			<string>cplusplus/supports/lzma/Alloc.c</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A8C2B311BA064B49878702CB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_eventmovie.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_eventmovie.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AA78317C3B694ECFBE016125</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_type.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_type.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AB8066D334B64B91954D609F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_utility.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_utility.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AECC5521573244FB9C56FEB4</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>49FD6C90FAC949F6938E430B</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>AF9E8873E5664E93BC0D86EC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_programobj.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_programobj.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AFC83B0381C345D89C6746E8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>62419D67FB45487081C9B47B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B074F273694C4472ACF694EE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E824A02296E34C89A1632D61</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B1ABC5FCD09F4897BF200791</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B488B21051EE43BDAF5CBBA9</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B2B6E2332B88442894935B8B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>562EFDA0B9404C0D8462508F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B3D6D4ADE5C142D786560DCE</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>Foundation.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>B488B21051EE43BDAF5CBBA9</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_eventmovie.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_eventmovie.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B4F71D572DF34908B73EABAC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_text.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_text.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B9482E7EA772456ABEEBD995</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1071,130 +1632,28 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>6949E787564941AEA3EF42C8</key>
+		<key>BF1C08E96CF04400A86A05A6</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_bitmapex.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_bitmapex.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>694B9EC4739349018ABD7D41</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DF0B4251C6974143B3D1760E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>69A735002B4347008B3EE859</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>69AC82ABC0984200BB829540</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-environment.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6BE3277723FC414181C4751C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0DF01B81C4A4406BB4B3B346</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6CF4B4A9B72447FAB8EE66CA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_format.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_format.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6DF48D422B664B5486CC3138</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>LWFRendererFactory.mm</string>
-			<key>path</key>
-			<string>cplusplus/uikit/LWFRendererFactory.mm</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6EFB631030E640A2950E699B</key>
-		<dict>
-			<key>children</key>
+			<key>buildConfigurations</key>
 			<array>
-				<string>3DA8BA4F7ED34B439B224FA4</string>
+				<string>888A837A95D1412BB7976846</string>
+				<string>8369F0A66B8842FFBD546F71</string>
 			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>XCConfigurationList</string>
 		</dict>
-		<key>7031937C6CAF439EA0F0C84E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-LWF.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>72C1FE10EA3D45F2A2AA925E</key>
+		<key>BFD7F85765D141038E50408B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>9DBFC1B1ECC448BABDE7380A</string>
+			<string>5F66CBCD81BC42ECAEBF38DC</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>73504E30D21049FAAF55441B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F5F0C4023024406E88B1CDE2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>73FA94A8458942A393FE0925</key>
+		<key>C006DF48EBD045F597B690FF</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1209,552 +1668,21 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>787420D06E5748918B6AF513</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7ACF538D2F5D4C9DBF43DC6D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>LWFBitmapRenderer.h</string>
-			<key>path</key>
-			<string>cplusplus/uikit/LWFBitmapRenderer.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CB86FB5B34646A0A956FE46</key>
+		<key>C00CF627E4804422AA350B7F</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A8EC2D12E9D946AA851B7860</string>
+			<string>321D13AF17C847EEA34CE847</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>7E8FA42655FA4C7184C29567</key>
+		<key>C01A7A8CE2AA4C378134DEE0</key>
 		<dict>
 			<key>fileRef</key>
-			<string>53F4791341CB4E78A87BF8B2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
-			</dict>
-		</dict>
-		<key>82BB1AF060414AA3B147D3A7</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>673DAE862EE64148AEE6CD84</string>
-				<string>D6819DC075F24403BD7857EA</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>832FEDF642174F50967AE21A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_eventmovie.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_eventmovie.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>834ADF719ED343D0AA175961</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>B899296193EF49E3AF2B83B8</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Pods-LWF-prefix.pch</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>87C29C10D23A4FE0BFA9F3A7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1D9A1C16108F45ADA74237BE</string>
+			<string>C7998E02F4A24E6AA3A0FA7A</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>89098704D71D4EA1A4F94021</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6949E787564941AEA3EF42C8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>899F49B37BD8477AB0E6A3FA</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>EE7B4178B8464FC8AC3B1E16</string>
-				<string>36205E81A1DF4B92B80FFA5F</string>
-				<string>026670D68261451BB18F593F</string>
-				<string>7CB86FB5B34646A0A956FE46</string>
-				<string>908993E1CA3A4F32AC2D6598</string>
-				<string>87C29C10D23A4FE0BFA9F3A7</string>
-				<string>5BC6DD295A3940148D7AA47B</string>
-				<string>0F409B464B234E6AAA07C746</string>
-				<string>694B9EC4739349018ABD7D41</string>
-				<string>AF822F91B67C430795CECE82</string>
-				<string>C626BF63DBDE419EAA555C0D</string>
-				<string>E3A005858C3A4FA193C44FFE</string>
-				<string>89098704D71D4EA1A4F94021</string>
-				<string>2444B6D34F6E4CCB8F2E8A9A</string>
-				<string>8FDAE4F947EA4DC8B3BECB40</string>
-				<string>8C3FF2989CD04103955EC868</string>
-				<string>4B8EE90DC3674F3291CC69C2</string>
-				<string>4BFD09C3489A4441B78E485D</string>
-				<string>C3B87AAE928141148B7E6845</string>
-				<string>024A36EED0394CCDAAD0FFAF</string>
-				<string>007D41CB1BEF42609D576A5F</string>
-				<string>66EDD5DD31A44DB0BFEE25BF</string>
-				<string>EBA34D7EB91B46568D64BB2F</string>
-				<string>DE3FA36233894D2C89AFA4BE</string>
-				<string>C35A5A5E9F324D3F91D9D5EE</string>
-				<string>D5FF076DF323448DBE220AC3</string>
-				<string>72C1FE10EA3D45F2A2AA925E</string>
-				<string>02CCEA9F4C5147ED9ED516DC</string>
-				<string>14CDBD0984224104BE8617A6</string>
-				<string>F4A97126152A4C3DBA0578A5</string>
-				<string>430EFD46D8F84D5296F57470</string>
-				<string>0BE30983CA2F4B71924B76E9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>89B66706F29B4A8F805BFA29</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D509E97E1CA8425C829ED76D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
-			</dict>
-		</dict>
-		<key>89E1401A2A7D4D5EA39AF93B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>LWFView.h</string>
-			<key>path</key>
-			<string>cplusplus/uikit/LWFView.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8C3FF2989CD04103955EC868</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5AA850661734412F9B0ADEF7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8C496F518561400989278CB0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B9EEBB1D04A44DC3BE0E6019</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8FDAE4F947EA4DC8B3BECB40</key>
-		<dict>
-			<key>fileRef</key>
-			<string>41723C63A39C4B2D8DA6F941</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>908993E1CA3A4F32AC2D6598</key>
-		<dict>
-			<key>fileRef</key>
-			<string>73FA94A8458942A393FE0925</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>94918EFB56A040D1B3D7C365</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>69A735002B4347008B3EE859</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>9635AA3EBF0F4CABA3BD690D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_graphic.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_graphic.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9DBFC1B1ECC448BABDE7380A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_programobj.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_programobj.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9DDE475DE5E44F9CB0E0959E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>69A735002B4347008B3EE859</string>
-				<string>E8E8D6B8CF2043D09531D6C9</string>
-				<string>CBD7825B6FA7494F90ADF2A1</string>
-				<string>F5F0C4023024406E88B1CDE2</string>
-				<string>69AC82ABC0984200BB829540</string>
-				<string>787420D06E5748918B6AF513</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9EF92A73729C4C5F8DCB0231</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F52319A56D194E449BB25BF0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A037A4F66608491CB20DB3F5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_coredata.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_coredata.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A5AFE9BFD72848D6871E713A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_renderer.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_renderer.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A64A0E272CD041A6834A1A22</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BEB7ECBB628947AA8E9BB44C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A8EC2D12E9D946AA851B7860</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>LWFRendererFactory.h</string>
-			<key>path</key>
-			<string>cplusplus/uikit/LWFRendererFactory.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A91A6FE5538F4F86BC264351</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_text.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_text.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A91F78129BB04820AA88E9ED</key>
-		<dict>
-			<key>fileRef</key>
-			<string>164BB74690E640A98ABF89C7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
-			</dict>
-		</dict>
-		<key>ADAB3464346741A98D0A7BEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>12DFF8147AC44C65834DB90A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>AF822F91B67C430795CECE82</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0F9B5F316CAA46B59DE516D7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>B0CF817FD78C449EA90D85F4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>40306D5104C34145B89BE493</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>B0FBE0F5ECB543A4B3F2CA90</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>B6772095E737472B89D7F84E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>13EC8650ECB849E19826B820</string>
-			<key>remoteInfo</key>
-			<string>Pods-LWF</string>
-		</dict>
-		<key>B1563595448648A59FD4AFC7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_lwfcontainer.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_lwfcontainer.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B4113568A41A4D6BB4EEDA5D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6DF48D422B664B5486CC3138</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
-			</dict>
-		</dict>
-		<key>B6772095E737472B89D7F84E</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0500</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>82BB1AF060414AA3B147D3A7</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>BE8A24624735483284EFAEF4</string>
-			<key>productRefGroup</key>
-			<string>54B26C386C174E5A8147F1DC</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>46EEA5EB8D4E437097006184</string>
-				<string>13EC8650ECB849E19826B820</string>
-			</array>
-		</dict>
-		<key>B87FB89038C847F780112591</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_animation.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_animation.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B899296193EF49E3AF2B83B8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-LWF-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B9EEBB1D04A44DC3BE0E6019</key>
+		<key>C0468ACD3FCD405FBBA5F960</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1767,150 +1695,54 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>BE8A24624735483284EFAEF4</key>
+		<key>C1DB74772C2B401AB1160BEB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7434105CC0714CFA82452939</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C22D8E51652F454C9932FFA9</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>67FFFF16FCA448CEB97D394B</string>
-				<string>6EFB631030E640A2950E699B</string>
-				<string>5F4CED55A2B84146902D1E99</string>
-				<string>54B26C386C174E5A8147F1DC</string>
-				<string>F97943580EDC482C8938B0A3</string>
+				<string>10153776E93247B88ED8036E</string>
+				<string>2E93B8FDB5D94E0E83E3207C</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BEB7ECBB628947AA8E9BB44C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>lwf_movie.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_movie.cpp</string>
+			<string>Products</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C06452C1AE834454ACADD927</key>
+		<key>C57A40500B6F446CA3E5F864</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-LWF-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C35A5A5E9F324D3F91D9D5EE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D04C37082D7941C8984DA24A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C3B87AAE928141148B7E6845</key>
-		<dict>
-			<key>fileRef</key>
-			<string>832FEDF642174F50967AE21A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C626BF63DBDE419EAA555C0D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B87FB89038C847F780112591</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C686D14076004EE48A156232</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EFBB6CB3E62F4CB3AC98CCE7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>CBD7825B6FA7494F90ADF2A1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CE1E73ACED884ED2BBF43D86</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_text.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_text.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CF2EB9EF5FEB4AA3A09DC980</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
+			<key>children</key>
 			<array>
-				<string>214FF26F3D2E46B482558E08</string>
-				<string>4384D8229BFE4AB7BFE123D0</string>
-				<string>89B66706F29B4A8F805BFA29</string>
-				<string>B4113568A41A4D6BB4EEDA5D</string>
-				<string>7E8FA42655FA4C7184C29567</string>
-				<string>A91F78129BB04820AA88E9ED</string>
-				<string>DB01D5B0AB514EF691517AC0</string>
-				<string>E7B446A1F6094FADA126335E</string>
-				<string>199F2D48FD844E1CB8804D9E</string>
-				<string>1E7DC186D53E4C248C78A507</string>
-				<string>6BE3277723FC414181C4751C</string>
-				<string>C686D14076004EE48A156232</string>
-				<string>E49D7325FF734D20A122295C</string>
-				<string>F6D3E1AB94D64750AE49C339</string>
-				<string>09170E01092445548E829766</string>
-				<string>F860A876DB1B43DA8879FB9C</string>
-				<string>ADAB3464346741A98D0A7BEF</string>
-				<string>182F1E63CE2149F5A5BF0674</string>
-				<string>2DEE4781B15344B8B5B9EC20</string>
-				<string>08633D7A0E3F49A6A564E403</string>
-				<string>15E7CD7BBAB948AE85746736</string>
-				<string>9EF92A73729C4C5F8DCB0231</string>
-				<string>0DC93CCE26354BAD9DB1D966</string>
-				<string>FC8D3079432F4582AA40B621</string>
-				<string>A64A0E272CD041A6834A1A22</string>
-				<string>41F906955E6545DFBD6FEF45</string>
-				<string>54FC83E301F04F2A9BD227D9</string>
-				<string>FAC18FB782E84CC2A68CF1AB</string>
-				<string>17A39149899C4B2989509BE6</string>
-				<string>19534A66DED04C088EB5CFF8</string>
-				<string>8C496F518561400989278CB0</string>
-				<string>B0CF817FD78C449EA90D85F4</string>
-				<string>FAB37C71A96A46F383FD1A66</string>
-				<string>FCC2ED8A0E174FF29F1D89EF</string>
+				<string>B3D6D4ADE5C142D786560DCE</string>
 			</array>
 			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>iOS</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D04C37082D7941C8984DA24A</key>
+		<key>C7998E02F4A24E6AA3A0FA7A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_core.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_core.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C9DA7598EE994E9C9624A6FF</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1919,81 +1751,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>lwf_object.h</string>
+			<string>LWFObject.h</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_object.h</string>
+			<string>cplusplus/uikit/LWFObject.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D0C8B6E52A9C4BE4862B515B</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>B899296193EF49E3AF2B83B8</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Pods-LWF-prefix.pch</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>D195D3691C8345F9BE7E5D69</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>834ADF719ED343D0AA175961</string>
-				<string>D0C8B6E52A9C4BE4862B515B</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>D342823E840F4547A6458A84</key>
+		<key>CB360D1964A14133A3606A94</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2001,14 +1765,32 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_data.h</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_data.h</string>
+			<string>Pods-environment.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D509E97E1CA8425C829ED76D</key>
+		<key>CBBA24A5095A405D81DB5AC0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AB8066D334B64B91954D609F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D1AE0039DE6449DE98DB14EB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-LWF-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D2CA828476EE44D7820FC9FE</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2021,14 +1803,92 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D5FF076DF323448DBE220AC3</key>
+		<key>D5C0CAC5B2E94477B6DBD10A</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>15D1AFBB63E6430980CDA0D3</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Targets Support Files</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D840EAA29DE1487EAB4FC9E7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>LWFBitmapRenderer.mm</string>
+			<key>path</key>
+			<string>cplusplus/uikit/LWFBitmapRenderer.mm</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D86412E900C74D3CB8C5A3DE</key>
 		<dict>
 			<key>fileRef</key>
-			<string>50C2C717BB1B41ABADA634D8</string>
+			<string>F8AE23EC69E2494485095B94</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>D6819DC075F24403BD7857EA</key>
+		<key>DB494BE4F4004644A08F7740</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D2CA828476EE44D7820FC9FE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>DB58F81771AA4D3EBDC9D3DD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>LWFResourceCache.mm</string>
+			<key>path</key>
+			<string>cplusplus/uikit/LWFResourceCache.mm</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DD74BA0597AE4CE6A27A1FB1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2EFD4364578244B087632553</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>DE7707244E8F4FA184620D45</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3D057780589342608E592F2E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E0002986EF9145ECA3270A53</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_text.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_text.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E2FC9FF331664367A7EB2C48</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -2086,235 +1946,342 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>D69776E5A2634F1E90EFD31E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_object.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_object.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D6CECB46D5914BEF9DE980BD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_utility.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_utility.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DB01D5B0AB514EF691517AC0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F63EF475EEB3433AAE5530BC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
-			</dict>
-		</dict>
-		<key>DB24CD4F541C4D799E018C5F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>LzmaDec.h</string>
-			<key>path</key>
-			<string>cplusplus/supports/lzma/LzmaDec.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DB91E6CB11874311BF79C4A6</key>
+		<key>E36083676BCC4B74A363CAE7</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>7031937C6CAF439EA0F0C84E</string>
-				<string>B899296193EF49E3AF2B83B8</string>
-				<string>65C6F5C6F8994409BAAF61E9</string>
-				<string>C06452C1AE834454ACADD927</string>
+				<string>B9482E7EA772456ABEEBD995</string>
+				<string>7460631247D34FDB8BC5FFB5</string>
+				<string>EF1D57AC77734413AD2751A7</string>
+				<string>C22D8E51652F454C9932FFA9</string>
+				<string>D5C0CAC5B2E94477B6DBD10A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E46125C437014135899526CD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_format.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_format.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E514BBB2AE1B49409E9955CF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-LWF-Private.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E6AB76B371E34E739ABB5C74</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B3D6D4ADE5C142D786560DCE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E824A02296E34C89A1632D61</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>LWFView.h</string>
+			<key>path</key>
+			<string>cplusplus/uikit/LWFView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E88EA7DFCA2A4CD9A42D71F7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_movieop.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_movieop.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EA40CCC9638349068A30D66E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_data.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_data.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EC0F70500C29460B801EB2A6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_movie.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_movie.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>ED3BD8BB42654912B9E0DB52</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>F568472D78D449F4A7584887</string>
+				<string>6B22D3DCC95E40BFAE8F5902</string>
+				<string>90193390CCB84AB5906ACED8</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Support Files</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>DE3FA36233894D2C89AFA4BE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3C23C661A3C843A48A26865E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>DF0B4251C6974143B3D1760E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>Types.h</string>
+			<string>LWF</string>
 			<key>path</key>
-			<string>cplusplus/supports/lzma/Types.h</string>
+			<string>LWF</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E3A005858C3A4FA193C44FFE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>27F1701EE12640B8BA49328E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E4063D3E9CC045F5BF40D94A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>13EC8650ECB849E19826B820</string>
-			<key>targetProxy</key>
-			<string>B0FBE0F5ECB543A4B3F2CA90</string>
-		</dict>
-		<key>E4365F818D9C48D8A7127228</key>
-		<dict>
-			<key>fileRef</key>
-			<string>11F7BCDB21F04B24AB4E34ED</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E49D7325FF734D20A122295C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0067B6E21E584486A5AEC89E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E7B446A1F6094FADA126335E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FC20E23A56564C5585620ECD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E886D236D8924B22BC322216</key>
+		<key>EE602A0BAFFD46C28DBFE67F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>LWFBitmapRenderer.mm</string>
+			<string>lwf_movieprop.cpp</string>
 			<key>path</key>
-			<string>cplusplus/uikit/LWFBitmapRenderer.mm</string>
+			<string>cplusplus/core/lwf_movieprop.cpp</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E8E8D6B8CF2043D09531D6C9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EA4337C64B8C4FF49A8DD14C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>Alloc.h</string>
-			<key>path</key>
-			<string>cplusplus/supports/lzma/Alloc.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EBA34D7EB91B46568D64BB2F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>11735EBACBF140A09D0ADA6C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>ECE955EBF6714849A1C912F9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>lwf_type.h</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_type.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>ECFDF9AB677A4AAD97FD519C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>LWFObject.h</string>
-			<key>path</key>
-			<string>cplusplus/uikit/LWFObject.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EDF633D33F924344999B9D9B</key>
+		<key>EE6CC294E3B74C09998097E3</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>E4365F818D9C48D8A7127228</string>
+				<string>1E4BCDEDC68B47B8B143F765</string>
+				<string>42390AE19C674473AB9E56EE</string>
+				<string>DB494BE4F4004644A08F7740</string>
+				<string>FE6AD3F42FB944E7B026B649</string>
+				<string>40D704F6F6444486984384AC</string>
+				<string>A4118492605545D68D254618</string>
+				<string>66EE8739929E41EB9FA8E542</string>
+				<string>A17543877D2F4BCD9CF2F442</string>
+				<string>2B4E2C7367644864BD7B447F</string>
+				<string>78C1CE409A174B8EA8BE73D0</string>
+				<string>308717AEC8754F56A81F964F</string>
+				<string>458C87AEE2F84730AFAFF04C</string>
+				<string>645C2E4FD16144D6BEADACCB</string>
+				<string>C01A7A8CE2AA4C378134DEE0</string>
+				<string>7974212F567744B0A91CC53F</string>
+				<string>2E816C6AE6FC4685B56C878E</string>
+				<string>4AEE27A90CD64B1DA68A9209</string>
+				<string>1D5E1178ECE9455AB0EB34BD</string>
+				<string>B1ABC5FCD09F4897BF200791</string>
+				<string>DD74BA0597AE4CE6A27A1FB1</string>
+				<string>8E5308D4322C4196B871B30B</string>
+				<string>F610DFF9D5E64D59A8F9FC9D</string>
+				<string>BFD7F85765D141038E50408B</string>
+				<string>DE7707244E8F4FA184620D45</string>
+				<string>C1DB74772C2B401AB1160BEB</string>
+				<string>C00CF627E4804422AA350B7F</string>
+				<string>0CC20C9860E84AA4859BC69D</string>
+				<string>7087F265A02A4F6D9491344E</string>
+				<string>08D2C6A4621C43D79E22CA26</string>
+				<string>04388385750C48AB8053352A</string>
+				<string>353AB0A4C8144538899E3731</string>
+				<string>FA60B02ECCB84118957BD4E0</string>
+				<string>33FBBD9F23644CF1AFA1864E</string>
+				<string>60258CC78C614E339BC5AF51</string>
 			</array>
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
+			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>EE7B4178B8464FC8AC3B1E16</key>
+		<key>EF1D57AC77734413AD2751A7</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>ED3BD8BB42654912B9E0DB52</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F0020703B2244EE68508C597</key>
 		<dict>
 			<key>fileRef</key>
-			<string>EA4337C64B8C4FF49A8DD14C</string>
+			<string>6560B82E3E2B49AB9D0D7E5D</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>EFBB6CB3E62F4CB3AC98CCE7</key>
+		<key>F266045217A943D09C96EDAE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F473C11A8E1F412BAD225487</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A8C2B311BA064B49878702CB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F568472D78D449F4A7584887</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>A5304E825FFA4D5DB9BE7425</string>
+				<string>8C7D7644CC1A43F99C9948E5</string>
+				<string>7F29401341604748A7AEE578</string>
+				<string>562EFDA0B9404C0D8462508F</string>
+				<string>29A28D5E93C744F5B7FA555B</string>
+				<string>F266045217A943D09C96EDAE</string>
+				<string>0FDDFDE57BFD42648AA92015</string>
+				<string>4D52F3D748EE4CE6902CD4CC</string>
+				<string>6FD437711F6C45E5A6847BA8</string>
+				<string>FFAFBEC2F0244BCD9FD5E27E</string>
+				<string>F60419729A7843A99548EDFB</string>
+				<string>116A14B56B6049E5B29317E2</string>
+				<string>1B2969248B4448B882993D13</string>
+				<string>9CDFA4B0F97E4CD392665780</string>
+				<string>1340C86AF463452C954D690C</string>
+				<string>C7998E02F4A24E6AA3A0FA7A</string>
+				<string>1B97B5F81EDA410AA12D74F2</string>
+				<string>6B670F9C4A9C471D837E6E88</string>
+				<string>114F973923564C289F3FC56A</string>
+				<string>EA40CCC9638349068A30D66E</string>
+				<string>F8C8FD0AA6B144FFAA45BF19</string>
+				<string>FC32B34CDA8441BD8AC3F56F</string>
+				<string>439426871CC34EF88ECE821F</string>
+				<string>B488B21051EE43BDAF5CBBA9</string>
+				<string>A8C2B311BA064B49878702CB</string>
+				<string>2EFD4364578244B087632553</string>
+				<string>E46125C437014135899526CD</string>
+				<string>5806B71382054D5C8F7D5F65</string>
+				<string>52E1503090DC46D88C6D3EC2</string>
+				<string>799ABD835D954CF190608757</string>
+				<string>5F66CBCD81BC42ECAEBF38DC</string>
+				<string>312A778B0A8347539BEE19D5</string>
+				<string>3D057780589342608E592F2E</string>
+				<string>6560B82E3E2B49AB9D0D7E5D</string>
+				<string>7434105CC0714CFA82452939</string>
+				<string>EC0F70500C29460B801EB2A6</string>
+				<string>321D13AF17C847EEA34CE847</string>
+				<string>E88EA7DFCA2A4CD9A42D71F7</string>
+				<string>EE602A0BAFFD46C28DBFE67F</string>
+				<string>878DE427FA544EA08EB57292</string>
+				<string>62419D67FB45487081C9B47B</string>
+				<string>2C7084A259E144C1A2F005CC</string>
+				<string>F8AE23EC69E2494485095B94</string>
+				<string>C0468ACD3FCD405FBBA5F960</string>
+				<string>AF9E8873E5664E93BC0D86EC</string>
+				<string>2721B490B4F94B719F2CFD18</string>
+				<string>F8470F39A62E4CB3BD78ED48</string>
+				<string>7B881E6457D741ACAC1BBA9C</string>
+				<string>E0002986EF9145ECA3270A53</string>
+				<string>B4F71D572DF34908B73EABAC</string>
+				<string>AA78317C3B694ECFBE016125</string>
+				<string>798638AC86DE4FE9B77301FA</string>
+				<string>AB8066D334B64B91954D609F</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Core</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F5F82E5A40BA40088758FF39</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>3D9ACB1879434C0E9654C9CE</string>
+				<string>5EFA0116643343ACA0271A6A</string>
+				<string>0A401C451CDF4CC3A43B510E</string>
+				<string>94F3F1A24A204A028D505F7A</string>
+				<string>5229DE29486D4B8891FDE823</string>
+				<string>5745469CAB9D41DFBA0F5FE7</string>
+				<string>B074F273694C4472ACF694EE</string>
+				<string>B2B6E2332B88442894935B8B</string>
+				<string>2BBF4F1306CC4A4BAE550060</string>
+				<string>55548313B8C344AEBB4996BA</string>
+				<string>90F35AA07E7F495CB8B29BA6</string>
+				<string>50A1E3060B1D4580932BC391</string>
+				<string>FE5DC681B86B420CBCB266C9</string>
+				<string>2E2D946EE7D54E89A0BBCA73</string>
+				<string>18897BA5C5A5476596C97711</string>
+				<string>90DDEE014DA0420AB3A63132</string>
+				<string>76CF12F175BB400094E90136</string>
+				<string>638C8A0221AE47F7A317C5BE</string>
+				<string>F473C11A8E1F412BAD225487</string>
+				<string>44166377B4DF47F793D5EED3</string>
+				<string>492DCB94133B4C0BB2D78DBB</string>
+				<string>8C25C68300DD4B27BCDF8A64</string>
+				<string>F0020703B2244EE68508C597</string>
+				<string>233C91A3F3CE4D69B01F40B7</string>
+				<string>AFC83B0381C345D89C6746E8</string>
+				<string>D86412E900C74D3CB8C5A3DE</string>
+				<string>07EB387118F64336B7A61BD1</string>
+				<string>A109FE8751AE4CF68F0B5456</string>
+				<string>30B6C1BF7A63490AB158B978</string>
+				<string>2162C012D1844119A767C3FA</string>
+				<string>27BBCD457E52442498EC3965</string>
+				<string>CBBA24A5095A405D81DB5AC0</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>F60419729A7843A99548EDFB</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2327,116 +2294,14 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F4A97126152A4C3DBA0578A5</key>
+		<key>F610DFF9D5E64D59A8F9FC9D</key>
 		<dict>
 			<key>fileRef</key>
-			<string>CE1E73ACED884ED2BBF43D86</string>
+			<string>799ABD835D954CF190608757</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>F4C725FD6F9B43A0B265E60C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>09EAB5841C324645800D4677</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F52319A56D194E449BB25BF0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>lwf_input.cpp</string>
-			<key>path</key>
-			<string>cplusplus/core/lwf_input.cpp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F5F0C4023024406E88B1CDE2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F63EF475EEB3433AAE5530BC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>LWFView.m</string>
-			<key>path</key>
-			<string>cplusplus/uikit/LWFView.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F6D3E1AB94D64750AE49C339</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0521304EE94740D8BA0FCE2B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F860A876DB1B43DA8879FB9C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>500B4C95EDEE43609DA7EEAC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F97943580EDC482C8938B0A3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>9DDE475DE5E44F9CB0E0959E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FAB37C71A96A46F383FD1A66</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A91A6FE5538F4F86BC264351</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FAC18FB782E84CC2A68CF1AB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1D7AF4CD3203499B8C0A1ABC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FC20E23A56564C5585620ECD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>LzmaDec.c</string>
-			<key>path</key>
-			<string>cplusplus/supports/lzma/LzmaDec.c</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FC8376E973D94B40B405C5B6</key>
+		<key>F8470F39A62E4CB3BD78ED48</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2445,28 +2310,163 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>lwf_eventbutton.h</string>
+			<string>lwf_property.h</string>
 			<key>path</key>
-			<string>cplusplus/core/lwf_eventbutton.h</string>
+			<string>cplusplus/core/lwf_property.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>FC8D3079432F4582AA40B621</key>
+		<key>F8AE23EC69E2494485095B94</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_particle.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_particle.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F8C8FD0AA6B144FFAA45BF19</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_event.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_event.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FA60B02ECCB84118957BD4E0</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B1563595448648A59FD4AFC7</string>
+			<string>2721B490B4F94B719F2CFD18</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>FCC2ED8A0E174FF29F1D89EF</key>
+		<key>FAAF7EE8DC3B4180B3AE8DB1</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>E514BBB2AE1B49409E9955CF</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>ARCHS</key>
+				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Pods-LWF-prefix.pch</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>FC32B34CDA8441BD8AC3F56F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>lwf_eventbutton.cpp</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_eventbutton.cpp</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FCA406004FC1438EBB141C5C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Pods-acknowledgements.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FE5DC681B86B420CBCB266C9</key>
 		<dict>
 			<key>fileRef</key>
-			<string>082DEC02CA4949B28DE80C81</string>
+			<string>116A14B56B6049E5B29317E2</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>FE6AD3F42FB944E7B026B649</key>
+		<dict>
+			<key>fileRef</key>
+			<string>57200C1A29B2490AAEE5F89A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>FFAFBEC2F0244BCD9FD5E27E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>lwf_bitmap.h</string>
+			<key>path</key>
+			<string>cplusplus/core/lwf_bitmap.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>
-	<string>B6772095E737472B89D7F84E</string>
+	<string>85FEC0E71EE5420EA5E963D5</string>
 </dict>
 </plist>
